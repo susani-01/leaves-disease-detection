@@ -1,4 +1,4 @@
-# Plant Leaf Disease Detection using Image Processing
+# Enhanced Image-Based Detection and Segmentation of Plant Leaf Diseases Using Grayscale Conversion and Thresholding Techniques
 
 This repository contains code for an image processing approach to detect and segment healthy and diseased plant leaves.  The method uses grayscale conversion and thresholding for efficient and cost-effective disease detection.
 
